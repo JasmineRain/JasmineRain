@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 This is Yang Li.
 
-- 🔭 Working on ByteDance, Shanghai.
+- 🔭 Working @ ByteDance, Shanghai.
 - 🌱 Learning computer vision, including object detection, segmentation, image/video OCR.
 - 📫 Graduted from SCUT, DLUT
 
