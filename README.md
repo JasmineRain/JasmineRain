@@ -9,6 +9,6 @@ This is Yang Li.
 
 - 🔭 Working @ ByteDance, Shanghai.
 - 🌱 Learning computer vision, including object detection, segmentation, image/video OCR.
-- 📫 Graduated from SCUT, DLUT
+- 📫 Graduated from SCUT (master), DLUT (bachelor)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminerain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
